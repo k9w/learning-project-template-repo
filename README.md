@@ -10,7 +10,8 @@
 
 ## Description
 
-Welcome to my first published project in [learning Python](https://learn-python.org).
+Welcome to my first published project in [learning
+Python](https://learn-python.org).
 
 I started it on Saturday July 2nd 2022. It is designed to be run from
 the command line, with no substantial user interface. 
@@ -24,10 +25,12 @@ You can find more of my work at:
 * _Check for installed Python on your machine with:_
 
 ```
-$ python --version
+$ python3 --version
 ```
 
-* _Install Python [from the project site](https://www.python.org/downloads) or from your package manager or app store if necessary.
+* _Install Python [from the project
+  site](https://www.python.org/downloads) or from your package manager 
+  or app store if necessary._
 
 * _Fork the project to your own Github repository if you plan to make
   changes._
@@ -50,8 +53,8 @@ $ python3 ./hello-world-and-math
 
 The code which originated in this project is covered by the [ISC
 License](https://choosealicense.com/licenses/isc). See the file called
-[LICENSE](https://github.com/k9w/*/blob/main/LICENSE) in
-this same folder for distribution and liability terms as well as
+[LICENSE](https://github.com/k9w/learning-project-template-repo/blob/main/LICENSE)
+in this same folder for distribution and liability terms as well as
 copyright holder info.
 
 _Third-party packages are subject to their own license and copyright._
